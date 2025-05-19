@@ -1,3 +1,3 @@
 # demoo
-This is my first repo
-srushti
+This is my first repo 
+author srushti
